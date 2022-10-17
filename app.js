@@ -21,5 +21,3 @@ document.addEventListener('scroll', () => {
 },true);
 
 
-
-
