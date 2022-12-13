@@ -1,2 +1,2 @@
-# I'm trying to sizing it down
+# I'm trying to size it down
 Size 695 bytes
