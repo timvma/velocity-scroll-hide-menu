@@ -29,7 +29,7 @@ class VelocityScroll {
 ```
 
 # Initialize 
-Copy this code before </body> tag
+Copy this code before the ending </ body> tag tag
 
 ```
 <script src="velocity-scroll.min.js"></script>
