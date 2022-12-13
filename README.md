@@ -1,7 +1,7 @@
 # I'm trying to size it down
 Size 695 bytes
 
-#The Code
+# The Code
 ```
 class VelocityScroll {
     constructor(target,toggleClass) {
@@ -27,3 +27,14 @@ class VelocityScroll {
     }
 }
 ```
+
+# Initialize 
+Copy this code before </body> tag
+
+```
+<script src="velocity-scroll.min.js"></script>
+<script>
+   const scrolling = new VelocityScroll('header', 'header--hide');
+</script>
+```
+
